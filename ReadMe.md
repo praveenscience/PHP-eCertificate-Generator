@@ -1,3 +1,3 @@
 # PHP-eCertificate-Generator
 
-![Certificate](./empty.png)
+![Certificate](empty.png)
