@@ -1,6 +1,6 @@
 # PHP eCertificate Generator
 
-This was created as part of Praveen's live stream on his [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1).
+This was created as part of Praveen's live stream on his [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1). (Don't forget to star :star: the repo and subscribe to my YouTube channel to motivate me!)
 
 To watch the full live stream, check out: [Who says PHP is dead? Let's Generate eCertificates using PHP feat. Shrutika & Eddie Jaoude](https://youtu.be/895oblyUzX8).
 
